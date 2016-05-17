@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Greatings World!"
+echo "Hello World!"
